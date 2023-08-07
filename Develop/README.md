@@ -1,7 +1,7 @@
-# Test Project
+# TEST
 
 ## Description
-This is a test
+A test
 
 ## Table of Contents
 - [Installation](#installation)
@@ -19,7 +19,7 @@ none
 
 ## License
 
-This project is licensed under the [MIT](https://img.shields.io/badge/License-MIT-yellow.svg) license. 
+This project is licensed under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) license.
 
 
 ## Contribution
