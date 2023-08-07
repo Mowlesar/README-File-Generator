@@ -21,8 +21,7 @@ function renderLicenseLink(license) {
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
   const licenseBadge = renderLicenseBadge(license);
-  const licenseLink = renderLicenseLink(license);
-  return licenseBadge ? `## License\n\nThis project is licensed under the [${license}](${licenseLink}) license. \n` : '';  
+  return licenseBadge ? `## License\n\nThis project is licensed under the ${licenseBadge} license.\n` : '';
 }
 
 // TODO: Create a function to generate markdown for README
